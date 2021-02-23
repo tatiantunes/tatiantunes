@@ -4,8 +4,8 @@
  <h1>Saudações</h1>
  <ul>
 <li>:mortar_board:Desenvolvedora Full Stack</li>
-<li>Apaixonada por games</li>
-<li>Entusiasta em aprender tecnologias novas</li>
+<li>:computer: Apaixonada por games</li>
+<li>:runner: Entusiasta em aprender tecnologias novas</li>
 
 </ul>
 </p>
