@@ -1,5 +1,7 @@
 ### Hi there 👋
+<p align = "center">
 ![Gif](https://github.com/tatiantunes/tatiantunes/raw/main/menina.gif)
+ </p>
 <!--
 **tatiantunes/tatiantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
