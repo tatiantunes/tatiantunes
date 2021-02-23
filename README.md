@@ -5,7 +5,7 @@
 Desenvolvedora full stack 
 Apaixonada por games
 </p>
-<p align = "right">
+<p align = "right" margin = "top">
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
 # **Hi there** 👋
  </p>
