@@ -30,7 +30,7 @@
 </table>         
 
 <p align = "center">
-<h2><bold>My social media </bold></h2> 
+<h2><bold> 	:handshake: Contact me 	:handshake:  </bold></h2> 
 <a href = "https://www.facebook.com/tatiane.t.ant/">
 <img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/USERNAME">
