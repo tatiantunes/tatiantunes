@@ -110,9 +110,13 @@
 
 
 
-
+<div align = "center">
 
 ![Gif](https://github.com/tatiantunes/tatiantunes/raw/main/menina.gif)
+</div>
+
+
+
 
 
 
