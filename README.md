@@ -12,7 +12,7 @@
                                 <li>:art:Aspirante em desenhar</li>
                                 <li>:runner: Entusiasta em aprender tecnologias novas</li>
 
-                        </ul>
+                       
                                 </p>
                         </div>
                 </td>
