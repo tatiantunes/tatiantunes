@@ -8,8 +8,7 @@
 <img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
 </p>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@2/css/all.min.css" />
-<a class="is-size-4 has-text-facebook-light">Hi Facebook Light</a>
+<a href="https://www.facebook.com/sharer.php?u=https://www.facebook.com/tatiane.t.ant/">Share on Facebook</a>
     
 
 
