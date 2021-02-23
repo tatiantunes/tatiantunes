@@ -104,10 +104,10 @@
       </tr>
  </table>       
 
-
+<div align = "center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatiantunes&layout=compact)](https://github.com/tatiantunes/github-readme-stats)
-
+</div>
 
 
 
