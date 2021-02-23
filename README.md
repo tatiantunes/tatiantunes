@@ -1,4 +1,4 @@
-### Saudações 🇧🇷  Hi there 🇧🇷🇺🇸
+### Saudações 🇧🇷  Hi there \xF0\x9F\x87\xBA\xF0\x9F\x87\xB8
 
 
 
