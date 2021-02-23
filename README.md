@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <p align = "center">
 <a href = "">
 <img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
@@ -7,10 +8,12 @@
 <img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
 </p>
 <!-- Sharingbutton Facebook -->
-<a class="resp-sharing-button__link" href="https://www.facebook.com/tatiane.t.ant/" target="_blank" rel="noopener" aria-label="Facebook">
-  <div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--medium"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.77 7.46H14.5v-1.9c0-.9.6-1.1 1-1.1h3V.5h-4.33C10.24.5 9.5 3.44 9.5 5.32v2.15h-3v4h3v12h5v-12h3.85l.42-4z"/></svg></div>Facebook</div>
-</a>
+<div class="e-mailit_toolbox   size32">
+  <div class="e-mailit_btn_Facebook"></div>
+
+  <div class="e-mailit_btn_LinkedIn"></div>
+
+</div>
 
 
 <!-- Sharingbutton E-Mail -->
@@ -27,7 +30,10 @@
 
 ![Gif](https://github.com/tatiantunes/tatiantunes/raw/main/menina.gif)
 
-
+<script type='text/javascript'>
+var e_mailit_config = {"display_counter":false,"after_share_dialog":true,"mobile_bar":true,"hover_pinit":true,"popup":true,"display_ads":true,"open_on":"onclick","emailit_branding":true,"notrack":false,"global_back_color":"#365899","mobile_back_color":"","thanks_message":"My social media","follow_services":{"Facebook":"tatiane.t.ant/","LinkedIn_2":"tati-antunes/"},"mobile_position":"bottom","mobileServices":"Facebook,Twitter,WhatsApp,Viber,SMS,Email,Gmail,Outlook,Yahoo_Mail,AOL_Mail,MailRu,Telegram,WeChat,WordPress,Messenger,Skype,Kik,QQ,Line,Kakao","headline":{}};
+(function() {var b=document.createElement('script');b.type='text/javascript';b.async=true;b.src='//e-mailit.com/widget/menu3x/js/button.js';var c=document.getElementsByTagName('head')[0];c.appendChild(b) })()
+</script>
  
 <!--
 **tatiantunes/tatiantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
