@@ -6,8 +6,8 @@ Desenvolvedora full stack
 Apaixonada por games
 </div>
 
-<div align = "right>
-<img src = "ttps://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
+<div align = "right">
+<img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
 ### Hi there 👋
 </div>
 
