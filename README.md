@@ -4,14 +4,22 @@
  <h1>Saudações</h1>
  <ul>
 <li>:mortar_board:Desenvolvedora Full Stack</li>
+<li>:mortar_board:Graduada em Jogos Digitais</li>
 <li>:computer: Apaixonada por games</li>
+<li>:art:Aspirante em desenhar</li>
 <li>:runner: Entusiasta em aprender tecnologias novas</li>
 
 </ul>
 </p>
 <p align = "left">
+ <li></li>
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
  <h1>Hi there</h1>👋
+<li>:mortar_board:Full Stack Developer/li>
+<li>:mortar_board:Graduated in Digital Games</li>
+<li>:computer: Fascinated by games</li>
+<li>:art:Beginner in drawing</li>
+<li>:runner: Enthusiastic about learning new technologies</li>
  </p>
 </div>
 
