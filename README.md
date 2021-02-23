@@ -7,7 +7,7 @@
 <img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
 </p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatiantunes&layout=compact)](https://github.com/tatiantunes/github-readme-stats)
 
 
 ![Gif](https://github.com/tatiantunes/tatiantunes/raw/main/menina.gif)
