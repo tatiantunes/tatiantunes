@@ -1,11 +1,12 @@
 <div >
-<img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8"/>
+
 
 <table>
         <tr>
         <td>
             <div>
                <p align = "left">
+ <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8"/>                      
  <h1>Saudações👋</h1>
  <ul>
 <li>:mortar_board:Desenvolvedora Full Stack</li>
@@ -16,6 +17,10 @@
 
 </ul>
 </p>
+</div>
+</td>
+<td>
+<div>
 <p align = "left">
 <ul></ul>
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
