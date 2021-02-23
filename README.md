@@ -74,7 +74,7 @@
 </p>
 
 <p align = "center">
-<h2><bold>Skills </bold></h2> 
+<h2><bold>Skills </bold></h2> </p>
 <table align = "center">
         <tr>
         <td>
@@ -119,7 +119,7 @@
         </td>
         </tr>
     </table>
-</p>
+
 
 ![Gif](https://github.com/tatiantunes/tatiantunes/raw/main/menina.gif)
 
