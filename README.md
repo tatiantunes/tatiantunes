@@ -2,8 +2,12 @@
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8"/>
 <p align = "left">
  <h1>Saudações</h1>
- <h6>Desenvolvedora full stack</h6> 
- <h6>Apaixonada por games </h6>
+ <ul>
+<li>Desenvolvedora Full Stack</li>
+<li>Apaixonada por games</li>
+<li>Entusiasta em aprender tecnologias novas</li>
+
+</ul>
 </p>
 <p align = "right" margin = "top">
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
