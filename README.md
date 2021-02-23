@@ -29,7 +29,12 @@
                   
 </table>       
 <p align = "center">
-<h2><bold>Skills </bold></h2> 
+<h2><bold>Skills </bold></h2> <p align = "left">
+<a href = "">
+<img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
+<a href = "">
+<img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
+</p>
 <table>
         <tr>
         <td>
@@ -77,12 +82,7 @@
 </p>
 
 
-<p align = "left">
-<a href = "">
-<img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
-<a href = "">
-<img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
-</p>
+
 
 <p align = "center">
 <h2><bold> 	:handshake: Contact me 	:handshake:  </bold></h2> 
