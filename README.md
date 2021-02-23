@@ -2,7 +2,12 @@
 <p align = "center">
 <a href = "">
 <img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
+
+<a href = "">
+<img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
 </p>
+
+
 
 
 ![Gif](https://github.com/tatiantunes/tatiantunes/raw/main/menina.gif)
