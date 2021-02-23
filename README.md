@@ -75,6 +75,14 @@
         </tr>
     </table>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatiantunes&layout=compact)](https://github.com/tatiantunes/github-readme-stats)
+
+<p align = "left">
+<a href = "">
+<img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
+<a href = "">
+<img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
+</p>
 
 <p align = "center">
 <h2><bold> 	:handshake: Contact me 	:handshake:  </bold></h2> 
@@ -85,14 +93,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatiantunes&layout=compact)](https://github.com/tatiantunes/github-readme-stats)
 
-<p align = "left">
-<a href = "">
-<img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
-<a href = "">
-<img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
-</p>
 
 
 
