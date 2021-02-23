@@ -8,7 +8,7 @@ Apaixonada por games
 
 <div align = "right">
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
-### Hi there 👋
+# Hi there 👋
 </div>
 
 <p align = "center">
