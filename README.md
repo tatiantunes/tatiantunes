@@ -1,6 +1,5 @@
 ### Hi there 👋
-<p align = "center">
-</p>
+
 ![Gif](https://github.com/tatiantunes/tatiantunes/raw/main/menina.gif)
  
 <!--
