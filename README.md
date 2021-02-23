@@ -15,7 +15,7 @@
 <ul></ul>
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
  <h1>Hi there👋</h1>
-<li>:mortar_board:Full Stack Developer/li>
+<li>:mortar_board:Full Stack Developer</li>
 <li>:mortar_board:Graduated in Digital Games</li>
 <li>:computer: Fascinated by games</li>
 <li>:art:Beginner in drawing</li>
@@ -24,6 +24,7 @@
 </div>
 
 <p align = "center">
+<h2><bold>My social mi</bold></h2> 
 <a href = "https://www.facebook.com/tatiane.t.ant/">
 <img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/USERNAME">
@@ -43,18 +44,6 @@
 ![Gif](https://github.com/tatiantunes/tatiantunes/raw/main/menina.gif)
 
 
-<!--
-**tatiantunes/tatiantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
