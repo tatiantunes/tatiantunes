@@ -1,11 +1,15 @@
+<div align = "left">
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8"/>
 
 # **Saudações**
 Desenvolvedora full stack 
 Apaixonada por games
+</div>
 
+<div align = "right>
+<img src = "ttps://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
 ### Hi there 👋
-
+</div>
 
 <p align = "center">
 <a href = "https://www.facebook.com/tatiane.t.ant/">
