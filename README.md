@@ -1,9 +1,9 @@
 <div >
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8"/>
-<p align = "left" vertical-align = "middle">
+<p align = "left">
  <h1>Saudações</h1>
-Desenvolvedora full stack 
-Apaixonada por games
+ <h6>Desenvolvedora full stack</h6> 
+ <h6>Apaixonada por games </h6>
 </p>
 <p align = "right" margin = "top">
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
