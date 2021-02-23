@@ -1,14 +1,18 @@
-<div align = "left">
+<div >
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8"/>
+<p align = "left">
+ <h1>Saudações</h1>
+ <ul>
+<li>:mortar_board:Desenvolvedora Full Stack</li>
+<li>Apaixonada por games</li>
+<li>Entusiasta em aprender tecnologias novas</li>
 
-# **Saudações**
-@octocat :mortar_board: Desenvolvedora full stack 
-Apaixonada por games
-</div>
-
-<div align = "right" >
+</ul>
+</p>
+<p align = "right" margin = "top">
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
 # **Hi there** 👋
+ </p>
 </div>
 
 <p align = "center">
