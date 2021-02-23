@@ -8,7 +8,7 @@
                         <ul>
                                 <li>:mortar_board:Desenvolvedora Full Stack</li>
                                 <li>:mortar_board:Graduada em Jogos Digitais</li>
-                                <li>:computer: Apaixonada por games</li>
+                                <li>:space_invader: Apaixonada por games</li>
                                 <li>:art:Aspirante em desenhar</li>
                                 <li>:runner: Entusiasta em aprender tecnologias novas</li>
                                 </div>
@@ -21,7 +21,7 @@
                         <ul>                
                                 <li>:mortar_board:Full Stack Developer</li>
                                 <li>:mortar_board:Graduated in Digital Games</li>
-                                <li>:computer: Fascinated by games</li>
+                                <li>:space_invader: Fascinated by games</li>
                                 <li>:art:Beginner in drawing</li>
                                 <li>:runner: Enthusiastic about learning new technologies</li>
                                 
@@ -29,7 +29,7 @@
                   
 </table>         
 <p align = "center">
-<h2><bold>Skills </bold></h2> </p>
+<h2><bold> :rocket: Skills :rocket: </bold></h2> </p>
 <p align = "left">
 <a href = "">
 <img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
