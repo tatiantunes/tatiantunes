@@ -27,10 +27,10 @@
                                 <li>:computer: Fascinated by games</li>
                                 <li>:art:Beginner in drawing</li>
                                 <li>:runner: Enthusiastic about learning new technologies</li>
-                                </p>
+                                
                         </ul>
                         
-
+                                </p>
                         </div>
                 </td>
         </tr>
