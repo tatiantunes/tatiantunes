@@ -1,6 +1,13 @@
 ### Hi there 👋
+<p align = "center">
+<a href = "">
+<img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
+</p>
+
 
 ![Gif](https://github.com/tatiantunes/tatiantunes/raw/main/menina.gif)
+
+
  
 <!--
 **tatiantunes/tatiantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
