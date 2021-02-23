@@ -12,7 +12,7 @@
 </ul>
 </p>
 <p align = "left">
- <li></li>
+<ul></ul>
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
  <h1>Hi there</h1>👋
 <li>:mortar_board:Full Stack Developer/li>
