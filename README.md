@@ -11,10 +11,7 @@
                                 <li>:computer: Apaixonada por games</li>
                                 <li>:art:Aspirante em desenhar</li>
                                 <li>:runner: Entusiasta em aprender tecnologias novas</li>
-
-                       
-                                </p>
-                        </div>
+                                </div>
                 </td>
                 <td>
                         <div>
@@ -28,9 +25,8 @@
                                 <li>:art:Beginner in drawing</li>
                                 <li>:runner: Enthusiastic about learning new technologies</li>
                                 
-                        </ul>
-                        
-                                </p>
+                       
+                       
                         </div>
                 </td>
         </tr>
