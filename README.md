@@ -16,9 +16,6 @@
 
 
 
-<a href = "">
-<img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
-</p>
 
  
 
@@ -26,7 +23,14 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatiantunes&layout=compact)](https://github.com/tatiantunes/github-readme-stats)
+<a href = "">
+<img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
 
+
+
+<a href = "">
+<img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
+</p>
 
 ![Gif](https://github.com/tatiantunes/tatiantunes/raw/main/menina.gif)
 
