@@ -1,14 +1,14 @@
-<div align = "left">
+<div >
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8"/>
-
+<p align = "left">
 # **Saudações**
 Desenvolvedora full stack 
 Apaixonada por games
-</div>
-
-<div align = "right" >
+</p>
+<p align = "right">
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
 # **Hi there** 👋
+ </p>
 </div>
 
 <p align = "center">
