@@ -30,6 +30,12 @@
 </table>         
 <p align = "center">
 <h2><bold>Skills </bold></h2> </p>
+<p align = "left">
+<a href = "">
+<img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
+<a href = "">
+<img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
+</p>
 <table align = "center">
         <tr>
         <td>
@@ -80,7 +86,7 @@
 
 
 <p align = "center">
-<h2><bold>My social media </bold></h2> 
+<h2><bold>:handshake: Contact me :handshake:</bold></h2> 
 <a href = "https://www.facebook.com/tatiane.t.ant/">
 <img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/USERNAME">
@@ -90,12 +96,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatiantunes&layout=compact)](https://github.com/tatiantunes/github-readme-stats)
 
-<p align = "left">
-<a href = "">
-<img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
-<a href = "">
-<img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
-</p>
+
 
 
 
