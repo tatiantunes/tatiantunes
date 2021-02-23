@@ -85,13 +85,25 @@
 
 
 
-<p align = "center">
+
 <h2><bold>:handshake: Contact me :handshake:</bold></h2> 
-<a href = "https://www.facebook.com/tatiane.t.ant/">
+<table align = "center">
+        <tr>
+        <td>
+            <div>
+               <a href = "https://www.facebook.com/tatiane.t.ant/">
 <img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href = "https://www.linkedin.com/in/USERNAME">
+            </div>
+        </td>
+          <td>
+            <div>
+              <a href = "https://www.linkedin.com/in/USERNAME">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+            </div>
+        </td>        
+      </tr>
+ </table>       
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatiantunes&layout=compact)](https://github.com/tatiantunes/github-readme-stats)
