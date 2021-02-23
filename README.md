@@ -1,8 +1,10 @@
-# <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8"/>
+<img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8"/>
 
-<h5>Saudações</h5> 
+###<h5>Saudações</h5> 
+Desenvolvedora full stack 
+Apaixonada por games
 
-
+### Hi there 👋
 
 
 <p align = "center">
