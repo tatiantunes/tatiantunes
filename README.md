@@ -2,7 +2,7 @@
 
 <!--
 **tatiantunes/tatiantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+(https://github.com/tatiantunes/tatiantunes/raw/main/menina.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-(https://github.com/tatiantunes/tatiantunes/blob/main/menina.gif)
+
