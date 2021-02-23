@@ -26,10 +26,7 @@
                                 <li>:runner: Enthusiastic about learning new technologies</li>
                                 
                        
-                       
-                        </div>
-                </td>
-        </tr>
+                  
 </table>         
 
 
