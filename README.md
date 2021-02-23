@@ -9,9 +9,9 @@
 
 </ul>
 </p>
-<p align = "right" margin = "top">
+<p align = "left">
 <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
-# **Hi there** 👋
+ <h1>Hi there</h1>👋
  </p>
 </div>
 
