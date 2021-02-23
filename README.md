@@ -12,6 +12,14 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
 
+<a href = "">
+<img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
+
+<a href = "">
+<img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
+
+<a href = "">
+<img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
 </p>
 
  
