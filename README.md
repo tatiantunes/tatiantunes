@@ -75,7 +75,7 @@
         </td>
           <td>
             <div>
-      <img src = "https://camo.githubusercontent.com/e06b2c1d10250975f17992d147486a5efc58e89d735dbbd6e200301dd3d5bb90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"/>
+      <img src = "https://imgur.com/a/BLjR2Sp">
             </div>
         </td>
         </tr>
