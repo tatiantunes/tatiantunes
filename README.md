@@ -75,7 +75,7 @@
         </td>
           <td>
             <div>
-     <img src="https://img.icons8.com/material-rounded/48/000000/mysql.png"/>
+    <img src="https://img.icons8.com/fluent-systems-regular/24/000000/mysql.png"/>
             </div>
         </td>
         </tr>
