@@ -35,7 +35,7 @@
 <img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
 <a href = "">
 <img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
- ![Profile View Counter](https://komarev.com/ghpvc/?username=tatiantunes)     
+<img src = "https://komarev.com/ghpvc/?username=tatiantunes"/> 
 </p>
 
  ## 5. Profile View Counter
