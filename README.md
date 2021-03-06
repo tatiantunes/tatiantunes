@@ -120,8 +120,14 @@
               <a href = "https://www.linkedin.com/in/tati-antunes/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
             </div>
-        </td>        
-      </tr>
+        </td>  
+          <td>
+                  <div>
+                          <a href = "https://www.behance.net/tativivebb6b">
+                <img src ="https://img.shields.io/badge/Behance-0955D7?style=for-the-badge&logo=Behance&logoColor=white"/></a>
+                          </div>
+                </td>
+        </tr>
          
  </table>       
 
