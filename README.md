@@ -71,7 +71,7 @@
         </td>
          <td>
             <div>
-      <img src = "https://camo.githubusercontent.com/b85dffbd82a08945f5f2833e3a5e958ec894d31cd58ccc6192efe16957c5a5f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d706c6173746963266c6f676f3d6a617661736372697074"/>
+      <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
             </div>
         </td>
           <td>
