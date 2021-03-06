@@ -36,7 +36,7 @@
 <a href = "">
 <img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
 </p>
-![Profile View Counter](https://komarev.com/ghpvc/?username=tatiantunes)
+![Profile View Counter](https://komarev.com/ghpvc/?tatiantunes)
 <table align = "center">
         <tr>
         <td>
