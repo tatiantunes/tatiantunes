@@ -35,8 +35,6 @@
 <img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
 <a href = "">
 <img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
-## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=tatiantunes)
 </p>
 
 <table align = "center">
@@ -132,9 +130,11 @@
 <div align = "center">
 
 ![Gif](https://github.com/tatiantunes/tatiantunes/raw/main/menina.gif)
-<img src = "https://forthebadge.com/images/badges/built-with-love.svg"/>
-</div>
 
+</div>
+<div align = "center">
+        <img src = "https://forthebadge.com/images/badges/built-with-love.svg"/>
+</div>        
 
 
 
