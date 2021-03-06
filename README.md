@@ -129,7 +129,7 @@
                 </td>
                 <td>
                         <div>
-                  <img src = " https://img.shields.io/badge/tatiignis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>              
+                  <img src = "https://img.shields.io/badge/tatiignis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />            
                                 </div>
                         </td>
         </tr>
