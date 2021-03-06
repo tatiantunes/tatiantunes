@@ -66,7 +66,7 @@
         </td>
          <td>
             <div>
-         <img src = "https://camo.githubusercontent.com/90a2f2eef5a9a6b15801e0b5b3c63f0a05ff51272a2a65ba3a0e337e89f9cb4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d706c6173746963266c6f676f3d676974687562"/>
+         <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
             </div>
         </td>
          <td>
