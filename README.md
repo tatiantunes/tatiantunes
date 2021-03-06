@@ -38,8 +38,7 @@
 <img src = "https://komarev.com/ghpvc/?username=tatiantunes"/> 
 </p>
 
- ## 5. Profile View Counter
- ![Profile View Counter](https://komarev.com/ghpvc/?username=tatiantunes)
+
 
 
 
