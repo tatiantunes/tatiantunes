@@ -39,7 +39,6 @@
 </p>
 
 
-[![HitCount](http://hits.dwyl.com/tatiantunes/tatiantunes.svg)](http://hits.dwyl.com/tatiantunes/tatiantunes)
 
 
 <table align = "center">
