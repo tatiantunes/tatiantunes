@@ -127,7 +127,13 @@
                 <img src ="https://img.shields.io/badge/Behance-0955D7?style=for-the-badge&logo=Behance&logoColor=white"/></a>
                           </div>
                 </td>
+                <td>
+                        <div>
+                  <img src = " https://img.shields.io/badge/tatiignis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>              
+                                </div>
+                        </td>
         </tr>
+        
          
  </table>       
 
