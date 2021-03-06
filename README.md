@@ -87,6 +87,11 @@
                               <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
                               </div>
                       </td>
+                <td>
+                        <div>
+                                <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+                                </div>
+                        </td>
       </tr>    
     </table>
 
