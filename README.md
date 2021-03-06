@@ -36,7 +36,7 @@
 <a href = "">
 <img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
 </p>
-![Profile View Counter](https://komarev.com/ghpvc/?tatiantunes)
+
 <table align = "center">
         <tr>
         <td>
@@ -81,6 +81,13 @@
             </div>
         </td>
         </tr>
+         <tr>
+              <td>
+                      <div>
+                              <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+                              </div>
+                      </td>
+      </tr>    
     </table>
 
 <div align = "center">
@@ -108,6 +115,7 @@
             </div>
         </td>        
       </tr>
+         
  </table>       
 
 
