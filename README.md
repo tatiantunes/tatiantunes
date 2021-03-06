@@ -37,8 +37,9 @@
 <img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
      
 </p>
-[![HitCount](http://hits.dwyl.com/tatiantunes/tatiantunes.svg)](http://hits.dwyl.com/tatiantunes/tatiantunes)
 
+
+[![HitCount](http://hits.dwyl.com/tatiantunes/tatiantunes.svg)](http://hits.dwyl.com/tatiantunes/tatiantunes)
 
 
 <table align = "center">
