@@ -50,7 +50,7 @@
         </td>
           <td>
             <div>
-              <img src = "https://camo.githubusercontent.com/982803cf428cb92cba498357d31f402ea379bc550f2293db476ff4d022673232/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d706c6173746963266c6f676f3d63737333"/>
+              <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
             </div>
         </td>
           <td>
