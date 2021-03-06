@@ -35,6 +35,7 @@
 <img src = "https://img.shields.io/github/followers/tatiantunes?style=social"/></a>
 <a href = "">
 <img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
+![Chrome Web Store](https://img.shields.io/chrome-web-store/rating-count/tatiantunes?style=flat-square)        
 </p>
 
 
