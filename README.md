@@ -37,7 +37,7 @@
 <img src = "https://img.shields.io/github/watchers/tatiantunes/tatiantunes?style=social"/></a>
      
 </p>
-![Chrome Web Store](https://img.shields.io/chrome-web-store/rating-count/tatiantunes?style=flat-square)
+
 
 <table align = "center">
         <tr>
