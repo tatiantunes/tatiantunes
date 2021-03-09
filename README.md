@@ -1,8 +1,4 @@
 
-    ```javascript
-    var init = "Olá, mundo!";
-    alert(init);
-    ````
 <table align = "center">
         <tr>
                 <td>
